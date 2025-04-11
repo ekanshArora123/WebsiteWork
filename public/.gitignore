@@ -1,0 +1,12 @@
+images/
+dev/
+*.ini
+.htaccess
+private/
+.private/
+prints/
+lasercuts/
+uploads/
+.vs/
+**/.DS_Store
+old/
